@@ -1,0 +1,5 @@
+img.ca {
+	opacity:0.65;
+	-moz-opacity: 0.65;
+	filter: alpha(opacity=65);
+	}
