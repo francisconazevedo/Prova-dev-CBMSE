@@ -27,7 +27,7 @@ O desafio será avaliado através dos seguintes critérios.
  - Habilidade em estilização de pagina HTML
  - Programação Orientada a Objetos
  - Código bem comentado
- - Código limpo
+ - Código limpo 
  - Cumprimento das funcionalidades
 
 ## Documentação
